@@ -5,3 +5,6 @@
 - Pretty much full time gamer, I love GH and the Skate series
 - Discord: JamesIsWack#8330
 - Why are you still here?
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesIsWack)](https://github.com/anuraghazra/github-readme-stats)
+
