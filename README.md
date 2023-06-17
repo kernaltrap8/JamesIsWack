@@ -1,4 +1,5 @@
-burger 
+burger
+
 <a href="https://github.com/JamesIsWack/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JamesIsWack&hide=prs&show_icons=true&line_height=33&count_private=true&theme=dark" alt="JamesIsWack's GitHub Stats" />
 </a>
