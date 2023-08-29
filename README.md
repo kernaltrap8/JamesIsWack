@@ -12,7 +12,10 @@ SectionArray qb_github_readme {
     [
       StructQBKey hello_from_qb = this_is_a_example_of_qb_struct
       StructQBKey section_2 = there_are_no_strings_in_qb
-      StructQBLey section_3 = this_is_hell_please_send_help
+      StructQBKey section_3 = this_is_hell_please_send_help
+      StructInt int = -1.00000
+      StructQBKey enable_debug_menus = 1
+      StructQBKey game_mode = Quickplay
     ]
   ]
 }
