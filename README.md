@@ -7,14 +7,14 @@ thats it! how about you stay awhile and take a look at my (crap) software!
 ```
 SectionArray qb_github_readme {
   ArrayStruct
-  {
+  [
     StructHeader 
-    {
+    [
       StructQBKey hello_from_qb = this_is_a_example_of_qb_struct
       StructQBKey section_2 = there_are_no_strings_in_qb
       StructQBLey section_3 = this_is_hell_please_send_help
-    }
-  }
+    ]
+  ]
 }
 ```
 
