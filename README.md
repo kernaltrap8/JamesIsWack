@@ -1,4 +1,4 @@
-hello! my name is james and welcome to my github profile. im a software developer, Guitar Hero modder, and reverse engineer from Witchita, Kansas. my main focuses are decompiling/modding Guitar Hero: Warriors of Rock Rock Revolution, and the PLAYSTATON 3's LV2 kernel. 
+hello! my name is james and welcome to my github profile. im a software developer, Guitar Hero modder, and reverse engineer from Witchita, Kansas. my main focuses are decompiling/modding Guitar Hero: Warriors of Rock, Rock Revolution, and the PLAYSTATON 3's LV2 kernel. 
 
 Discord: `duck8330`
 
